@@ -6,3 +6,4 @@ nano
 cava
 fastfetch
 cmatrix
+sl
