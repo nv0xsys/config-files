@@ -1,5 +1,8 @@
 # config files - too lazy to make a proper readme icl
 
+> [!IMPORTANT]
+> Use the `setup.sh` for automation or install it manually 
+
 ## kitty config
 
 How to install the config:
