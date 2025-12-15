@@ -2,6 +2,22 @@
 
 ## kitty config
 
+How to install the config:
+
+### 1. create the directory if it doesnt exist
+```
+mkdir -p ~/.config/kitty
+```
+### 2. cd into the directory of ur download
+### 3. copy the directory
+```
+cp kitty.conf ~/.config/kitty/kitty.conf
+```
+or just move it
+```
+mv kitty.conf ~/.config/kitty/kitty.conf
+```
+
 ## sddm greeter theme
 
 How to install the sddm theme:
