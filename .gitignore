@@ -1,0 +1,46 @@
+# --- system and OS trash ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.directory
+
+# --- passwords etc. ---
+*history
+.bash_history
+.zsh_history
+.python_history
+.node_repl_history
+
+# --- private keys and API tokens ---
+*.key
+*.pem
+*.gpg
+.env*
+secrets/
+
+# --- cache and tempfiles ---
+.cache/
+__pycache__/
+*.swp
+*.swo
+*.swn
+*.tmp
+*.bak
+*~
+
+# --- virtual environment / dependencies ---
+.venv/
+node_modules/
+vendor/
+
+# --- backups ---
+*.old
+*.save
+
+# --- editor / IDE ---
+.vscode/
+.idea/
+
+# --- build / distribution folders ---
+build/
+dist/
