@@ -1,9 +1,0 @@
-vim
-kitty
-git
-neovim
-nano
-cava
-fastfetch
-cmatrix
-sl
